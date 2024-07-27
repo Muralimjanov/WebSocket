@@ -1,0 +1,5 @@
+{
+    "dbUrl": "mongodb+srv://admin:admin@cluster0.zitjhx4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret": "secret123",
+    "serverPort": 8181
+}
